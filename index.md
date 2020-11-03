@@ -14,9 +14,13 @@ Interested in Software engineering, Statistic and Data Science.
 
 
 
-@ hasinishrakpurno@gmail.com                                     https://www.linkedin.com/in/hasin-ishrak-643860148/
+E-mail: hasinishrakpurno@gmail.com                                     
 
-(+1) 204-869-8000   																							         https://github.com/hasinishrak                                                                                                    
+Phone: (+1) 204-869-8000
+
+[LinkedIn](https://www.linkedin.com/in/hasin-ishrak-643860148/)																							   
+
+[GitHub](https://github.com/hasinishrak)                                                                                                    
 
 
 
