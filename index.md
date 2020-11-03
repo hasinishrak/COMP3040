@@ -72,19 +72,13 @@ Phone: (+1) 204-869-8000
 
 * Online Movie Ticket Purchase System.
 
-> An online movie ticket service created using HTML, CSS, JavaScript and jQuery.
-
-
-
-* Line Follower Robot(LFR)
-
-> Used Arduino Mega (micro controller), IR-sensor(array of 8), ultra- sonic sensor to create a line following robot.
+> An online movie ticket purchasing system was created using HTML, CSS, JavaScript and jQuery with the basic knowledge of Human-computer Interaction.
 
 
 
 * Life of Ant
 
->A click based infinite level game created using Java to learn object oriented programming. Framework used : javaFX.
+>Me and some of my friends built a click based infinite level game using Java to implement the knowledge of object oriented programming.  We used  the javaFX framework.
 
 
 
@@ -97,6 +91,6 @@ Phone: (+1) 204-869-8000
 * President's Scout Award (04/2014)
   * Received the highest award of Bangladesh Scouts from the president of Bangladesh for outstanding achievements and contributions.
 * University of Manitoba Annual Programming Contest (11/2019)
-  * Ranked: 17
+  * Ranked: 17th
 * National Programming Contest Bangladesh
-  * Ranked: 37
+  * Ranked: 37th
