@@ -4,7 +4,7 @@
 
 3rd year computer Science student at University of Manitoba.                     
 
-Interested in Software engineering, Statistic and Data Science.																 
+Interested in Software engineering, Statistics and Data Science.																 
 
 ​																							 
 
