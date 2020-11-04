@@ -94,6 +94,8 @@ In order to know about the practical steps of how to host a markdown formatted r
    > 6. Select any of the suitable themes
    >
    > After a while, when the site will be ready to publish there will be a green correct sign on the left side of the GitHub pages section and a link to the website will be provided. Click on the link to see the static website.
+   
+   Here is a gif showing how your resume should look like.....
 
    ![](https://github.com/hasinishrak/COMP3040/blob/main/Screen%20Shot%202020-11-03%20at%207.55.26%20PM.png)
 
